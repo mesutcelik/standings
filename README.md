@@ -1,5 +1,5 @@
 # standings
-A simple script to generate standing table for sports.
+A simple script to generate standing table for sports through Google Search.
 
 <img src="standings.gif" width="1000" height="500" />
 
