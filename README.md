@@ -1,5 +1,7 @@
 # standings
-A simple script to generate standing table for sports
+A simple script to generate standing table for sports.
+
+<img src="standings.gif" width="1000" height="500" />
 
 # Install
 
