@@ -1,5 +1,5 @@
 # standings
-A simple script to generate standing table for sports through Google Search.
+A simple script to generate standing table for sports through Google Search. It only supports macOS for now.
 
 <img src="standings.gif" width="1000" height="500" />
 
@@ -20,3 +20,4 @@ python standings.py
 # TODO
 - More Sports
 - More Browsers
+- More OS Support
